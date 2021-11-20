@@ -34,7 +34,7 @@ const peliculas = [
      {
      id : 5,
      name : "El protector",
-     imagen : "./imagenes/El-protector.jpg"
+     imagen : "./imagenes/El-Protector.jpg"
      },
      {
      id : 6,
@@ -44,7 +44,7 @@ const peliculas = [
      {
      id : 7,
      name : "Padre del año",
-     imagen : "./imagenes/padreDelano.jpg"
+     imagen : "./imagenes/padreDelAno.jpg"
      },
      {
      id : 8,
